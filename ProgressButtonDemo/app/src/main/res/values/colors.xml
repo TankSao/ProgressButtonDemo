@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blue_pressed">#0080ff</color>
+    <color name="blue_normal">#00ffff</color>
+    <color name="purple_progress">#ff00ff</color>
+    <color name="progress_bg">#ff8000</color>
+</resources>
